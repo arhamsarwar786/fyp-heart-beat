@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423028327924",
+    "project_id": "fypflutter-96db0",
+    "storage_bucket": "fypflutter-96db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423028327924:android:8db70bad5a3844e37225a1",
+        "android_client_info": {
+          "package_name": "com.example.fypflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423028327924-pok9265061qd2ebl6ktferdbfh96h2ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwNS9sOk2Cod0YJ5PsC3zfke5p395QNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423028327924-pok9265061qd2ebl6ktferdbfh96h2ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
